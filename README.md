@@ -1,3 +1,10 @@
+# React Ultimate Starter Template
+Template này được sử dụng cho series React Ultimate (Vite) của tác giả thuhuongit
+
+Môi trường chạy dự án: Node.js v20.11.0
+https://nodejs.org/en/blog/release/v20.11.0
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
